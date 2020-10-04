@@ -1,8 +1,6 @@
 # EzWin
 Windows library to use conveniently for me. (Who will use this?).
 
-* 이메일링크: <redmelon@protonmail.com>
-
 There is a library you want,
 but it is a library that requires community activities,
 so it was created to use by yourself.
