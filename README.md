@@ -10,3 +10,5 @@ so it was created to use by yourself.
 !caution!
 
 Since it is a library created by programming beginners, it can be lax.
+
+test
